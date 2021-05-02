@@ -1,4 +1,4 @@
-import { autoDetectClient } from "https://deno.land/x/kubernetes_client@v0.2.0/mod.ts";
+import { autoDetectClient } from "https://deno.land/x/kubernetes_client@v0.2.3/mod.ts";
 import { PetWg69NetV1Api, BlockDevice } from "../api/mod.ts";
 import { dumpAll } from "./smartctl.ts";
 
